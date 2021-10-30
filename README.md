@@ -10,5 +10,4 @@ removing unnecessary spaces. Then the words are tokenized and filtered by
 removing stop words and all words with 2 or fewer characters. The 
 difference in the number of words and most common words are shown before and
 after filtering. Then a histogram is made showing the word frequency across the 
-documents. The data is used to form a term-document matrix to train a
-Multinomial Naive Bayes classifier to classify text. 
+documents. 
